@@ -107,7 +107,7 @@ Built interactive visuals:
 1. Clone or download this repository:
 
    ```
-   git clone <your-repo-link>
+   git clone https://github.com/aishks14/amazon-laptop-sales-powerbi-dashboard.git
    ```
 
 2. Navigate to the project folder.
